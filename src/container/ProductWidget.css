@@ -1,0 +1,16 @@
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    display: flex;
+    justify-content: center;
+}
+
+p.card-text {
+    display: flex;
+    justify-content: center;
+}
+.g-2.row.row-cols-md-3.row-cols-1 {
+    width: 100%;
+    }

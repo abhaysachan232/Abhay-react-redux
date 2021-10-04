@@ -1,0 +1,18 @@
+.card_parent {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    border: solid 1px rgb(3, 3, 3);
+    margin-left: 14.4%;
+    margin-top: 80px;
+    
+}
+img.car_img{
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+}
+
+.h5{
+    padding-top: 5px;
+}
